@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerService", "TimerService\TimerService.csproj", "{5E040AEA-7706-4EB4-B761-F7C671774ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerService.Test", "TimerService.Test\TimerService.Test.csproj", "{93DAD550-37D1-4117-994F-DE30F86373B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E040AEA-7706-4EB4-B761-F7C671774ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E040AEA-7706-4EB4-B761-F7C671774ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E040AEA-7706-4EB4-B761-F7C671774ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E040AEA-7706-4EB4-B761-F7C671774ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DAD550-37D1-4117-994F-DE30F86373B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DAD550-37D1-4117-994F-DE30F86373B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DAD550-37D1-4117-994F-DE30F86373B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DAD550-37D1-4117-994F-DE30F86373B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
