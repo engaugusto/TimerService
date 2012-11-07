@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerService", "TimerServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerService.Test", "TimerService.Test\TimerService.Test.csproj", "{93DAD550-37D1-4117-994F-DE30F86373B3}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupService", "SetupService\SetupService.vdproj", "{ED361872-533E-4DAA-9C8F-2E0D4352B79C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,8 @@ Global
 		{93DAD550-37D1-4117-994F-DE30F86373B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93DAD550-37D1-4117-994F-DE30F86373B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93DAD550-37D1-4117-994F-DE30F86373B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED361872-533E-4DAA-9C8F-2E0D4352B79C}.Debug|Any CPU.ActiveCfg = Debug
+		{ED361872-533E-4DAA-9C8F-2E0D4352B79C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
